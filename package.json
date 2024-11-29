@@ -1,0 +1,19 @@
+{
+  "name": "express-up",
+  "description": "",
+  "author": "Abdul Samad",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-loop-1/express-up.git"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "typescript": "^5.7.2"
+  }
+}
